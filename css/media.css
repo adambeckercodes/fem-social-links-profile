@@ -1,0 +1,18 @@
+@media (max-width: 1024px) {
+  .card {
+    width: 456px;
+    padding: var(--spacing-500);
+  }
+}
+
+@media (max-width: 525px) {
+  .container {
+
+  }
+
+  .card {
+    width: 327px;
+
+    padding: var(--spacing-300);
+  }
+}
